@@ -1,7 +1,7 @@
 ---	
 title: Bold Outlook	
 layout: post	
-bg-img: https://static.lnktr.net/wallpapers/wallpaper-15.jpg
+bg-img: https://static.lnktr.net/wallpapers/wallpaper-13.jpg
 profile-pic: https://avatars.githubusercontent.com/u/4009266?v=4
 ---	
 

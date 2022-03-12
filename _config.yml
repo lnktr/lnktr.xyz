@@ -1,7 +1,7 @@
 title: LNKTR.XYZ
 description: The Only Link You’ll Ever Need
-google_analytics: 
-fathom_analytics: UA-39342544-15
+google_analytics: UA-39342544-15
+plausible_analytics: lnktr.xyz
 include:
  - _posts
  - _pages

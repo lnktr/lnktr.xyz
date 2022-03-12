@@ -11,10 +11,10 @@
         gtag('config', '{{ site.google_analytics }}');
       </script>
     {% endif %}
-    {% if site.fathom_analytics %}
-<!-- Fathom - beautiful, simple website analytics -->
-<script src="https://cdn.usefathom.com/script.js" data-site="{{ site.fathom_analytics }}" defer></script>
-<!-- / Fathom -->
+    {% if site.plausible_analytics %}
+<!-- Plausible Analytics -->
+    <script defer data-domain="{{ site.plausible_analytics }}" src="https://plausible.io/js/plausible.js"></script>
+<!-- / Plausible -->
     {% endif %}
     
     <script async defer data-domain="lnktr.me" src="https://plausible.io/js/plausible.js"></script>    

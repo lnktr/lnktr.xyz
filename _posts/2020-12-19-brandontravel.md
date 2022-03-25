@@ -6,5 +6,5 @@ profile-pic: https://pbs.twimg.com/profile_images/1361852374596395012/isM8He5__4
 ---
 
   <div class="links">
-    <a href="https://clicksrv.net/Q" class="btn btn-outline-secondary btn-lg btn-block">Official Website</a>
+    <a href="https://tinyurl.com/eyhxur27" class="btn btn-outline-secondary btn-lg btn-block">Official Website</a>
   </div>
